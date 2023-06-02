@@ -1,1 +1,1 @@
-# Deigning-e-commerce-Warehouse
+# Designing-e-commerce-Warehouse
