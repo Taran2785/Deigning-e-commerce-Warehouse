@@ -1,1 +1,0 @@
-# Designing-e-commerce-Warehouse
